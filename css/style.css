@@ -1,0 +1,15 @@
+.body {
+    background-color: rgb(143, 143, 252);
+}
+.italicize {
+    font-style: italic;
+}
+.bold {
+    font-weight: 400;
+}
+.color{
+    color: darkgreen;
+}
+.font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
